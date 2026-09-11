@@ -21,7 +21,7 @@ La primera versión busca permitir:
 - **Saúl García Galván** — Desarrollo backend.
 - **Edgar Omar García Pardo** — Base de datos y pruebas.
 - **Mónica Nayeli Rodríguez Peña** — Desarrollo frontend.
-- **Karla Paola Baeza López** — Documentación y control de calidad.
+- **Karla Paola Bucio López** — Documentación y control de calidad.
 
 > Matrículas, grupo y equipo: pendientes de agregar.
 
