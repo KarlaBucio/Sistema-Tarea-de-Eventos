@@ -1,26 +1,33 @@
 # Alcance del proyecto
 
 ## Proyecto
-Sistema de Tareas de Empresa de Eventos
+Gestión de tareas para empresas de eventos
 
-## Objetivo verificable
-Desarrollar y demostrar, a más tardar el 4 de diciembre de 2026, una primera versión funcional de un sistema para una empresa de eventos que permita registrar eventos, crear y asignar tareas a responsables, establecer fechas límite y prioridades, actualizar estados y consultar el avance. Se considerará cumplido cuando el equipo pueda ejecutar el sistema y demostrar un flujo completo con datos de prueba.
+## Grupo
+Grupo B
 
-## Incluye
-- Registro y consulta de eventos.
-- Creación, edición y consulta de tareas por evento.
-- Asignación de responsable.
-- Prioridad, fecha límite y estado de las tareas.
-- Consulta básica del avance y filtros.
-- Manejo básico de usuarios o colaboradores.
+## Fecha del acta
+11 de septiembre de 2026
 
-## No incluye
-- Facturación, pagos o contabilidad.
-- Contratación automática de proveedores.
-- Aplicación móvil nativa.
-- Integraciones con WhatsApp, correo o calendarios, salvo cambio aprobado.
-- Analítica avanzada o inteligencia artificial.
+## Cliente o usuario del sistema
+Empresas dedicadas a la organización y gestión de eventos, así como empleados y clientes.
 
-## Criterio de aceptación inicial
-El equipo deberá poder ejecutar el sistema y demostrar con datos de prueba el flujo: evento → creación de tarea → asignación de responsable → actualización de estado → consulta de avance.
+## Objetivo registrado en F1
+Manejo de gestión para empresas dedicadas a los eventos, eventos llevados a cabo, cuota de contratación, verificación de ganancias, gastos, etc.
 
+## Incluye — lo que el sistema sí hará
+- Ver eventos próximos, fechas, horarios, lugar y estado de cada evento.
+- Registrar clientes, consultar sus datos y ver qué eventos tienen contratados.
+- Mostrar servicios disponibles: decoración, música, fotografía, catering, mobiliario, etc.
+- Crear cotizaciones, consultar precios, servicios contratados y estado del contrato.
+- Ver los eventos programados y organizar fechas para evitar conflictos de horarios.
+
+## Excluye — lo que no hará, aunque lo pidan
+- Datos sensibles de cuentas, tarjetas o credenciales no estarán visibles para todos.
+- El sistema podrá almacenar contraseñas de forma segura, pero nunca deberá mostrarlas.
+- Datos personales que no son necesarios para administrar los eventos se mantendrán restringidos.
+- Parámetros técnicos, logs y configuraciones de servidor serán exclusivos del administrador técnico.
+- Un cliente podrá consultar sus propios eventos, pero no los contratos, precios o datos de otros clientes.
+
+## Control del alcance
+Toda petición nueva que modifique lo establecido en este alcance deberá entrar por el procedimiento de control de cambios F3 antes de modificar la línea base del proyecto.
