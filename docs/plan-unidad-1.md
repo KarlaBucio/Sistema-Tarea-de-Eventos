@@ -13,10 +13,8 @@ Este documento sirve como referencia operativa. Las fechas específicas deberán
 
 ## Evidencia de gestión requerida
 Cada actividad deberá poder relacionarse con evidencia verificable, por ejemplo:
-- Issue o tarjeta de trabajo.
 - Rama.
 - Commit.
-- Pull Request.
 - Documento o sección identificable.
 - Acuerdo registrado en minuta.
 
