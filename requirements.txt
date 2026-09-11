@@ -1,0 +1,2 @@
+# Dependencias del proyecto.
+# Se agregarán cuando el equipo defina el framework y las librerías necesarias.
