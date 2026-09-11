@@ -24,4 +24,3 @@ Desarrollar y demostrar, a más tardar el 4 de diciembre de 2026, una primera ve
 ## Criterio de aceptación inicial
 El equipo deberá poder ejecutar el sistema y demostrar con datos de prueba el flujo: evento → creación de tarea → asignación de responsable → actualización de estado → consulta de avance.
 
-> Las modificaciones a este alcance deberán registrarse mediante el control de cambios del proyecto.
