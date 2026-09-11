@@ -20,4 +20,3 @@ Registro mínimo del cambio:
 - Responsable de aplicar el cambio.
 - Evidencia relacionada.
 
-> Este registro complementa el formato académico F3; el formato oficial deberá conservarse en la carpeta de entrega.
