@@ -6,4 +6,3 @@ Documentos individuales de la Unidad 1:
 - F6 — Coevaluación entre Pares
 - F7 — Autoevaluación
 
-Los documentos se llenarán con actividades y evidencias reales del proyecto.
